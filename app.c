@@ -2,7 +2,7 @@
 #include <unistd.h>
 int main() {
    //printf() displays the string inside quotation
-	for (int i = 1; i =< 10; i++)
+	for (int i = 1; i <= 10; i++)
 	{
 		printf("Hello DevOps !! \n");
 		sleep(3)
