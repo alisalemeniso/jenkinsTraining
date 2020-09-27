@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include <unistd.h>
 int main() {
+	int i;
    //printf() displays the string inside quotation
-	for (int i = 1; i <= 10; i++)
+	for (i = 1; i <= 10; i++)
 	{
 		printf("Hello DevOps !! \n");
 		sleep(3);
